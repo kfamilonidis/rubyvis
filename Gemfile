@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 gem 'rake'
-gem 'nokogiri',">=1.10.4"
+gem 'nokogiri'
 gem 'coderay'
 gem 'haml'
 gem 'rspec'
